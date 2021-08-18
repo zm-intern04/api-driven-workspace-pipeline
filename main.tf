@@ -17,7 +17,7 @@ terraform {
 }
 
 locals {
-  nameprefix = "PIPELINE-AWS-GAversion-"
+  nameprefix = "API-DRIVEN-GA-TFC-"
 }
 
 # VPC
